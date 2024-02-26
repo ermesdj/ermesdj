@@ -6,9 +6,7 @@
 
 - 📄 Know about my experiences [www.stefanoaramu.it](www.stefanoaramu.it)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+
 
 
 
