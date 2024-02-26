@@ -1,4 +1,10 @@
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHl4bWU0bWtzMGxyajhzYXE2ZnhsZGtxYnJkbHZveGg0ZXZjam1paiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eCqFYAVjjDksg/giphy.gif" width="500"/>
+</div>
+
+
+
 <h1 align="center">Hi 👋, I'm Stefano</h1>
 <h3 align="center">A Cybersecurity student</h3>
 
